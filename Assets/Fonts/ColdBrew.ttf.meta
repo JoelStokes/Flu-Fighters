@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9a86378efd9ed6a4ba05b6251fb9444b
+timeCreated: 1500134267
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ColdBrew
+  fontNames:
+  - ColdBrew
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
